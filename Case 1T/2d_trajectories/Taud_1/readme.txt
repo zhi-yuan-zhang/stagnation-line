@@ -1,0 +1,2 @@
+This folder shows trajectories of specified particles in transient flow field and corresponding streamlines in time-averaged flow field at taud=1.
+The trajectories are traced both forward and backward from same locaitons but at different starting moments, i.e., from t=0P,t=0.25P,t=0.5P and t=P.
